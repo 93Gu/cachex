@@ -1,4 +1,4 @@
-module cachex
+module github.com/93Gu/cachex
 
 go 1.23.4
 
