@@ -1,9 +1,9 @@
 package main
 
 import (
-	"cachex/cache"
 	"context"
 	"fmt"
+	"github.com/93Gu/cachex/cache"
 	"time"
 )
 
@@ -22,4 +22,3 @@ func main() {
 
 	fmt.Println("got:", val)
 }
-
